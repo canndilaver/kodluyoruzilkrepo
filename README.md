@@ -7,6 +7,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 # Installation
 --------------
 Öncelikle projeyi clonelayın. (https://github.com/canndilaver/kodluyoruzilkrepo.git)
+
 `git clone https://github.com/canndilaver/kodluyoruzilkrepo.git `
 
 
